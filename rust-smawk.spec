@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.1
-Release:        1
+Release:        2
 Summary:        Functions for finding row-minima in a totally monotone matrix
 
 # Upstream license specification: MIT
